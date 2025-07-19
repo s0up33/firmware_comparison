@@ -6,7 +6,7 @@ Python-based RouterOS firmware diff tool that extracts two `.npk` packages and r
 
 ## Summary
 
-`firmware_comparison` automates the process of unpacking two MikroTik RouterOS firmware packages, computing SHA-256 hashes on each file, and reporting exactly what’s been added, removed, or modified between versions—making QA and security audits fast and reliable.
+This tool automates the process of unpacking two MikroTik RouterOS firmware packages, computing SHA-256 hashes on each file, and reporting exactly what’s been added, removed, or modified between versions—making QA and security audits fast and reliable.
 
 ---
 
