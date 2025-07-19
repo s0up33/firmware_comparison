@@ -1,4 +1,4 @@
-# fFirmware Comparison Tool
+# Firmware Comparison Tool
 
 Python-based RouterOS firmware diff tool that extracts two `.npk` packages and recursively compares their contents, identifying added, removed, changed, and unchanged files.
 
